@@ -1,2 +1,4 @@
 .venv/
 screens_*/
+.DS_Store
+__pycache__/common.cpython-311.pyc
