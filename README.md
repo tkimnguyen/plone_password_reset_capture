@@ -14,7 +14,7 @@ Assumptions:
 
 To run this script:
 
-`python plone_password_reset_capture.py --user bonobo --password chumpchump10@ --url http://localhost:8080/Plone`
+`python plone_password_reset_capture.py --user bonobo --password 'chumpchump10!' --url http://localhost:8080/Plone`
 
 # Logging In
 
